@@ -14,63 +14,36 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "Login", 
         "Elements", 
-        "btnCalendar.json"
+        "inptNetID.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "Login", 
         "Elements", 
-        "imgLogo.json"
+        "inptPassword.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "Login", 
         "Elements", 
-        "lblTitle.json"
+        "btnLogin.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "Form1", 
+        "Login", 
         "Elements", 
-        "btnLiveStream.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Form1", 
-        "Elements", 
-        "btnProfile.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Form1", 
-        "Elements", 
-        "btnLeaderboard.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Form1", 
-        "Elements", 
-        "btnStats.json"
+        "lblHeader.json"
       ]
     }
   ], 
@@ -80,7 +53,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "Form1", 
+  "id": "Login", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
