@@ -18,6 +18,15 @@
         "Elements", 
         "Label1.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "userProfile", 
+        "Elements", 
+        "Camera2.json"
+      ]
     }
   ], 
   "class": "", 
