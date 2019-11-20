@@ -16,7 +16,25 @@
         "forms", 
         "userProfile", 
         "Elements", 
-        "Label1.json"
+        "hdrWelcome.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "userProfile", 
+        "Elements", 
+        "Hamburger2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "userProfile", 
+        "Elements", 
+        "lblHeader2.json"
       ]
     }
   ], 
@@ -34,7 +52,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "userProfile.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
