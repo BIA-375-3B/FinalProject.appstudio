@@ -19,7 +19,7 @@
   "hidden": "", 
   "id": "lblHeader", 
   "labelStyle": "text", 
-  "left": 7, 
+  "left": 8, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 75, 
+  "top": 20, 
   "value": "Please use your Creighton Net ID and Password to Login.", 
   "width": "auto"
 }
