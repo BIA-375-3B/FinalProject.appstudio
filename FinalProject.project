@@ -53,6 +53,14 @@
             "Standings", 
             "Standings.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "GameSchedule", 
+            "GameSchedule.json"
+          ]
         }
       ], 
       "configxml": null, 

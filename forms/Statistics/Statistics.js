@@ -1,4 +1,7 @@
+Statistics.onshow=function(){
+
 DataTableStandings.initComplete = False
+DataTableGameSchedule.initComplete = False
 
 var query = "SELECT playerName, gameID, points, rebounds, assists, fouls, blocks, steals FROM player RIGHT JOIN gamestats ON player.netID = gamestats.netID"
  // alert(query)
@@ -59,3 +62,4 @@ DataTable1.onclick = function(event) {       // get cell user clicked on
 
 DataTable1.initComplete = False
 
+}

@@ -28,8 +28,8 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnCalendar", 
-  "left": 20, 
+  "id": "btnTeamRosters", 
+  "left": 171, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -61,6 +61,6 @@
   "style": "", 
   "toggleControl": "", 
   "top": 367, 
-  "value": "Calendar", 
+  "value": "Team Rosters", 
   "width": "auto"
 }
