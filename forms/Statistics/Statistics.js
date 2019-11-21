@@ -1,3 +1,5 @@
+DataTableStandings.initComplete = False
+
 var query = "SELECT playerName, gameID, points, rebounds, assists, fouls, blocks, steals FROM player RIGHT JOIN gamestats ON player.netID = gamestats.netID"
  // alert(query)
 req1 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=bjs03838&pass=BaileyBIA8!&database=375groupb3&query=" + query)
@@ -43,6 +45,17 @@ DataTable1.onclick = function(event) {       // get cell user clicked on
   var row,col
   row = event.target._DT_CellIndex.row
   col = event.target._DT_CellIndex.column
-  NSB.MsgBox("Click on "  +  row  +  ", "  +  col  +  ". Value is '"  +  data1[row][col]  +  "'.")
+  playerPicker = data1[row][col]
+  var playerPickerquery = "SELECT teamName, playerName, netID, gradYear, jerseyNumber FROM player RIGHT JOIN team ON player.teamID = team.teamID WHERE playerName = 'playerPicker'"
+  // alert(query)
+  req3 = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=bjs03838&pass=BaileyBIA8!&database=375groupb3&query=" + playerPickerquery)
+  if (req3.status == 200) { //transit worked.
+      results3 = JSON.parse(req3.responseText)
+      console.log(results3) }
+  NSB.MsgBox(results3)
+  //NSB.MsgBox("Click on "  +  row  +  ", "  +  col  +  ". Value is '"  +  playerPicker  +  "'.")
   // notice got text from the dataset
 }}
+
+DataTable1.initComplete = False
+

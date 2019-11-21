@@ -45,6 +45,14 @@
             "Statistics", 
             "Statistics.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Standings", 
+            "Standings.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -59,7 +67,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Statistics", 
+      "firstform": "Standings", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 
