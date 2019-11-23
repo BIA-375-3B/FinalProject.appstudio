@@ -14,19 +14,19 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Statistics", 
+        "Highlights", 
         "Elements", 
-        "DataTableStatistics.json"
+        "btnHome2.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "Statistics", 
+  "height": 320, 
+  "id": "Highlights", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -34,7 +34,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "Statistics.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
@@ -45,5 +45,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }

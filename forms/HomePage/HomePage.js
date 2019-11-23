@@ -9,3 +9,11 @@ btnSchedule.onclick=function(){
 btnStandings.onclick=function(){
   ChangeForm(Standings)
 }
+
+btnTeamRosters.onclick=function(){
+  ChangeForm(Rosters)
+}
+
+btnLiveStream.onclick=function(){
+  ChangeForm(Highlights)
+}

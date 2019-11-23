@@ -14,73 +14,37 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Rosters", 
         "Elements", 
-        "btnSchedule.json"
+        "lblPlayerListing.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Rosters", 
         "Elements", 
-        "imgLogo.json"
+        "rdoTeamSelect.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "HomePage", 
+        "Rosters", 
         "Elements", 
-        "lblTitle.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnLiveStream.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnStandings.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnStats.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnTeamRosters.json"
+        "btnHome1.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "HomePage", 
+  "height": 320, 
+  "id": "Rosters", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -99,5 +63,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }
