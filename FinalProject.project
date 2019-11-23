@@ -53,6 +53,30 @@
             "Standings", 
             "Standings.json"
           ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "GameSchedule", 
+            "GameSchedule.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Rosters", 
+            "Rosters.json"
+          ]
+        }, 
+        {
+          "!type": "External", 
+          "file": [
+            "forms", 
+            "Highlights", 
+            "Highlights.json"
+          ]
         }
       ], 
       "configxml": null, 
@@ -67,7 +91,7 @@
       "eslintRules": null, 
       "expanded_pmp": null, 
       "extraheaders": null, 
-      "firstform": "Standings", 
+      "firstform": "Login", 
       "fontFamily": "system", 
       "homescreenTitle": "", 
       "icon": "nsb/images/192.png", 

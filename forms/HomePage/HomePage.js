@@ -1,8 +1,19 @@
-
-btnProfile.onclick=function(){
-  ChangeForm(Login)
+btnStats.onclick=function(){
+  ChangeForm(Statistics)
 }
 
-btnStats.onclick=function(){
-  changeForm(Statistics)
+btnSchedule.onclick=function(){
+  ChangeForm(GameSchedule)
+}
+
+btnStandings.onclick=function(){
+  ChangeForm(Standings)
+}
+
+btnTeamRosters.onclick=function(){
+  ChangeForm(Rosters)
+}
+
+btnLiveStream.onclick=function(){
+  ChangeForm(Highlights)
 }

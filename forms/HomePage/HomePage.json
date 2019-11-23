@@ -16,7 +16,7 @@
         "forms", 
         "HomePage", 
         "Elements", 
-        "btnCalendar.json"
+        "btnSchedule.json"
       ]
     }, 
     {
@@ -52,16 +52,7 @@
         "forms", 
         "HomePage", 
         "Elements", 
-        "btnProfile.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "HomePage", 
-        "Elements", 
-        "btnLeaderboard.json"
+        "btnStandings.json"
       ]
     }, 
     {
@@ -71,6 +62,15 @@
         "HomePage", 
         "Elements", 
         "btnStats.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "btnTeamRosters.json"
       ]
     }
   ], 

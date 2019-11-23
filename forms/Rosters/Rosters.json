@@ -14,19 +14,37 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "Standings", 
+        "Rosters", 
         "Elements", 
-        "DataTableStandings.json"
+        "lblPlayerListing.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Rosters", 
+        "Elements", 
+        "rdoTeamSelect.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Rosters", 
+        "Elements", 
+        "btnHome1.json"
       ]
     }
   ], 
   "class": "", 
-  "designHeight": 0, 
-  "designWidth": 0, 
+  "designHeight": 320, 
+  "designWidth": 460, 
   "expanded_pmp": null, 
   "fullScreen": "true", 
-  "height": 460, 
-  "id": "Standings", 
+  "height": 320, 
+  "id": "Rosters", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -34,7 +52,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "Standings.onshow()", 
+  "onshow": "", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
@@ -45,5 +63,5 @@
   "style": "", 
   "theme": "", 
   "top": "0", 
-  "width": 320
+  "width": 460
 }

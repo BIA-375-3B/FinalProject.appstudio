@@ -16,7 +16,7 @@
         "forms", 
         "Statistics", 
         "Elements", 
-        "DataTable1.json"
+        "DataTableStatistics.json"
       ]
     }
   ], 
@@ -34,7 +34,7 @@
   "onhide": "", 
   "onkeypress": "", 
   "onresize": "", 
-  "onshow": "", 
+  "onshow": "Statistics.onshow()", 
   "openMode": "none", 
   "parentForm": "", 
   "position": "absolute", 
