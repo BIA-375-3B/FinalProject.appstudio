@@ -34,14 +34,6 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "userProfile", 
-            "userProfile.json"
-          ]
-        }, 
-        {
-          "!type": "External", 
-          "file": [
-            "forms", 
             "Statistics", 
             "Statistics.json"
           ]
@@ -74,8 +66,8 @@
           "!type": "External", 
           "file": [
             "forms", 
-            "Highlights", 
-            "Highlights.json"
+            "Livestream", 
+            "Livestream.json"
           ]
         }
       ], 

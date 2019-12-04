@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnLiveStream", 
-  "left": 18, 
+  "left": 44, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 316, 
-  "value": "Highlights", 
-  "width": "auto"
+  "top": 275, 
+  "value": "Livestream", 
+  "width": 108
 }

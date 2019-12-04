@@ -16,15 +16,6 @@
         "forms", 
         "Rosters", 
         "Elements", 
-        "lblPlayerListing.json"
-      ]
-    }, 
-    {
-      "!type": "External", 
-      "file": [
-        "forms", 
-        "Rosters", 
-        "Elements", 
         "rdoTeamSelect.json"
       ]
     }, 
@@ -35,6 +26,24 @@
         "Rosters", 
         "Elements", 
         "btnHome1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Rosters", 
+        "Elements", 
+        "txtPlayerListing.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Rosters", 
+        "Elements", 
+        "lblPlayerHeader.json"
       ]
     }
   ], 
