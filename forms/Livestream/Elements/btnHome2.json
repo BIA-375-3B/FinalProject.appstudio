@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnSchedule", 
-  "left": 182, 
+  "id": "btnHome2", 
+  "left": 124, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "btnSchedule.onclick()", 
+  "onclick": "btnHome2.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 392, 
-  "value": "Schedule", 
-  "width": 106
+  "top": 11, 
+  "value": "Home", 
+  "width": "auto"
 }

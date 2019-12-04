@@ -2,7 +2,7 @@
   "!type": "Button_bs4", 
   "ChangeForm": "", 
   "appearance": " btn-secondary", 
-  "backgroundColor": "", 
+  "backgroundColor": "#2B5CCB", 
   "badge": "", 
   "badgeAppearance": " badge-info", 
   "blockLevel": "", 
@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnLogin", 
-  "left": 237, 
+  "left": 246, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 256, 
+  "top": 417, 
   "value": "Login", 
   "width": "auto"
 }

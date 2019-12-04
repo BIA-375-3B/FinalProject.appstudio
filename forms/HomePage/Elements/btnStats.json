@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnStats", 
-  "left": 110, 
+  "left": 180, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 267, 
+  "top": 276, 
   "value": "Statistics", 
-  "width": "auto"
+  "width": 106
 }

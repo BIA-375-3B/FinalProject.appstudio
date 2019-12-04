@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnStandings", 
-  "left": 190, 
+  "left": 181, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 315, 
+  "top": 333, 
   "value": "Standings", 
-  "width": "auto"
+  "width": 106
 }
