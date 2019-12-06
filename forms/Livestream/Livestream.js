@@ -25,3 +25,7 @@ btnKFC3.onclick=function(){
 window.open("http://10.103.254.196:85")
 //HTMLview1.innerHTML="<iframe src='http://10.98.34.58:85'></iframe>"
 }
+
+btnHighlights.onclick=function(){
+  window.open("https://www.youtube.com/channel/UCvzVpMUQ_xZHQd6y9r5GPDA/featured")
+}

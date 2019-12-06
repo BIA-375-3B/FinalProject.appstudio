@@ -28,14 +28,14 @@
   "hidden": "", 
   "icon": "", 
   "iconTitle": "", 
-  "id": "btnKFC1", 
-  "left": 102, 
+  "id": "btnHighlights", 
+  "left": 93, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
   "mRight": "", 
   "mTop": "", 
-  "onclick": "", 
+  "onclick": "btnHighlights.onclick()", 
   "onmousedown": "", 
   "onmousemove": "", 
   "onmouseout": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 117, 
-  "value": "KFC #1", 
-  "width": 105
+  "top": 342, 
+  "value": "Saved Games", 
+  "width": 129
 }

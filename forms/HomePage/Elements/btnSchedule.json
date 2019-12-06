@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnSchedule", 
-  "left": 182, 
+  "left": 170, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 392, 
+  "top": 387, 
   "value": "Schedule", 
   "width": 106
 }

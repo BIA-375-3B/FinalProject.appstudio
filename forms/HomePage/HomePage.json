@@ -81,6 +81,60 @@
         "Elements", 
         "btnSignOut.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3Copy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3Copy1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3Copy2.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3Copy3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "HomePage", 
+        "Elements", 
+        "Image3Copy4.json"
+      ]
     }
   ], 
   "class": "", 

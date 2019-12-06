@@ -19,7 +19,7 @@
   "hidden": "", 
   "id": "lblTitle", 
   "labelStyle": "text", 
-  "left": 35, 
+  "left": 63, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -42,7 +42,7 @@
   "right": "auto", 
   "script": "", 
   "style": "", 
-  "top": 235, 
+  "top": 236, 
   "value": "Creighton Intramural Basketball", 
   "width": 251
 }

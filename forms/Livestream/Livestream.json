@@ -45,6 +45,60 @@
         "Elements", 
         "btnKFC2.json"
       ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "btnHighlights.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "Label1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "Image3Copy3Copy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "Image3Copy3Copy3.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "Image3Copy3CopyCopy.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "Livestream", 
+        "Elements", 
+        "Image3Copy3CopyCopy1.json"
+      ]
     }
   ], 
   "class": "", 

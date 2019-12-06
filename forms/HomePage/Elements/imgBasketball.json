@@ -14,10 +14,10 @@
   "fontSize": "", 
   "fontStyle": "", 
   "fontWeight": "", 
-  "height": 197, 
+  "height": 194, 
   "hidden": "", 
   "id": "imgBasketball", 
-  "left": 64, 
+  "left": 53, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -48,6 +48,6 @@
   "shape": "", 
   "src": "images/Basketball.png", 
   "style": "border-color: #FFFFFF", 
-  "top": 27, 
-  "width": 191
+  "top": 24, 
+  "width": 207
 }
