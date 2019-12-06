@@ -29,7 +29,7 @@
   "icon": "", 
   "iconTitle": "", 
   "id": "btnTeamRosters", 
-  "left": 46, 
+  "left": 54, 
   "mAll": "", 
   "mBottom": "", 
   "mLeft": "", 
@@ -60,7 +60,7 @@
   "size": " btn-md", 
   "style": "", 
   "toggleControl": "", 
-  "top": 331, 
+  "top": 332, 
   "value": "Rosters", 
   "width": 106
 }

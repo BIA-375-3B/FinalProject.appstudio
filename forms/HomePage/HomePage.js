@@ -115,3 +115,7 @@ btnTeamRosters.onclick=function(){
 btnLiveStream.onclick=function(){
   ChangeForm(Livestream)
 }
+
+btnSignOut.onclick=function(){
+  ChangeForm(Login)
+}
